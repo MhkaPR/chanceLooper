@@ -1,0 +1,44 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dK:/New folder
+T_opt
+!s110 1704986786
+Vf?nd[@X;6Z;52Hb0I7?Od0
+04 11 4 work ClockModule fast 0
+=1-0045e2c73661-65a008a2-314-2ee8
+o-quiet -auto_acc_if_foreign -work work +acc
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vClockModule
+!s110 1704986767
+!i10b 1
+!s100 IzSa;JX[930WQ<nBYn0d_1
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+IiCldZNUVYH<>MPLK1CABo2
+dK:/verilog project
+w1704986760
+8K:\verilog project\prg.v
+FK:\verilog project\prg.v
+!i122 2
+L0 1 17
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2020.4;71
+r1
+!s85 0
+31
+!s108 1704986767.000000
+!s107 K:\verilog project\prg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|K:\verilog project\prg.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+n@clock@module
